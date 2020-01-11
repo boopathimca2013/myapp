@@ -16,6 +16,7 @@ default: &default
   username: root
   password: root
   socket: /var/run/mysqld/mysqld.sock
+  host: localhost
 
 development:
   <<: *default
@@ -52,3 +53,5 @@ production:
   database: myapp_production
   username: myapp
   password: <%= ENV['MYAPP_DATABASE_PASSWORD'] %>
+  host: localhost
+  
