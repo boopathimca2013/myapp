@@ -1,0 +1,111 @@
+# Logfile created on 2020-01-10 17:22:16 +0530 by logger.rb/54362
+  INFO ---------------------------------------------------------------------------
+  INFO START 2020-01-10 17:22:16 +0530 cap production deploy
+  INFO ---------------------------------------------------------------------------
+ DEBUG [1c1a1d95] Running [ -d $HOME/.rbenv/versions/2.7.0 ] as deploy@206.189.139.122
+ DEBUG [1c1a1d95] Command: [ -d $HOME/.rbenv/versions/2.7.0 ]
+ DEBUG [1c1a1d95] Finished in 7.504 seconds with exit status 1 (failed).
+  WARN rbenv: 2.7.0 is not installed or not found in $HOME/.rbenv/versions/2.7.0 on 206.189.139.122
+  INFO ---------------------------------------------------------------------------
+  INFO START 2020-01-10 17:22:48 +0530 cap production deploy
+  INFO ---------------------------------------------------------------------------
+ DEBUG [58c5fcf6] Running [ -d $HOME/.rbenv/versions/2.7.0 ] as deploy@206.189.139.122
+ DEBUG [58c5fcf6] Command: [ -d $HOME/.rbenv/versions/2.7.0 ]
+ DEBUG [58c5fcf6] Finished in 17.115 seconds with exit status 1 (failed).
+  WARN rbenv: 2.7.0 is not installed or not found in $HOME/.rbenv/versions/2.7.0 on 206.189.139.122
+  INFO ---------------------------------------------------------------------------
+  INFO START 2020-01-10 17:25:31 +0530 cap production deploy
+  INFO ---------------------------------------------------------------------------
+ DEBUG [60b3c332] Running [ -d $HOME/.rbenv/versions/2.7.0 ] as deploy@206.189.139.122
+ DEBUG [60b3c332] Command: [ -d $HOME/.rbenv/versions/2.7.0 ]
+ DEBUG [60b3c332] Finished in 4.604 seconds with exit status 1 (failed).
+  WARN rbenv: 2.7.0 is not installed or not found in $HOME/.rbenv/versions/2.7.0 on 206.189.139.122
+  INFO ---------------------------------------------------------------------------
+  INFO START 2020-01-10 17:37:11 +0530 cap production deploy
+  INFO ---------------------------------------------------------------------------
+ DEBUG [f02a2f61] Running [ -d $HOME/.rbenv/versions/2.7.0 ] as deploy@206.189.139.122
+ DEBUG [f02a2f61] Command: [ -d $HOME/.rbenv/versions/2.7.0 ]
+ DEBUG [f02a2f61] Finished in 7.930 seconds with exit status 1 (failed).
+  WARN rbenv: 2.7.0 is not installed or not found in $HOME/.rbenv/versions/2.7.0 on 206.189.139.122
+  INFO ---------------------------------------------------------------------------
+  INFO START 2020-01-10 17:38:37 +0530 cap production deploy
+  INFO ---------------------------------------------------------------------------
+ DEBUG [6f918cc8] Running [ -d $HOME/.rbenv/versions/2.7.0 ] as deploy@206.189.139.122
+ DEBUG [6f918cc8] Command: [ -d $HOME/.rbenv/versions/2.7.0 ]
+ DEBUG [6f918cc8] Finished in 5.012 seconds with exit status 1 (failed).
+  WARN rbenv: 2.7.0 is not installed or not found in $HOME/.rbenv/versions/2.7.0 on 206.189.139.122
+  INFO ---------------------------------------------------------------------------
+  INFO START 2020-01-10 17:40:52 +0530 cap production deploy
+  INFO ---------------------------------------------------------------------------
+ DEBUG [5c09e305] Running [ -d $HOME/.rbenv/versions/2.7.0 ] as deploy@206.189.139.122
+ DEBUG [5c09e305] Command: [ -d $HOME/.rbenv/versions/2.7.0 ]
+ DEBUG [5c09e305] Finished in 4.174 seconds with exit status 1 (failed).
+  WARN rbenv: 2.7.0 is not installed or not found in $HOME/.rbenv/versions/2.7.0 on 206.189.139.122
+  INFO ---------------------------------------------------------------------------
+  INFO START 2020-01-10 17:42:15 +0530 cap production deploy
+  INFO ---------------------------------------------------------------------------
+ DEBUG [c08a2ac2] Running [ -d $HOME/.rbenv/versions/2.7.0 ] as deploy@206.189.139.122
+ DEBUG [c08a2ac2] Command: [ -d $HOME/.rbenv/versions/2.7.0 ]
+ DEBUG [c08a2ac2] Finished in 3.884 seconds with exit status 1 (failed).
+  WARN rbenv: 2.7.0 is not installed or not found in $HOME/.rbenv/versions/2.7.0 on 206.189.139.122
+  INFO ---------------------------------------------------------------------------
+  INFO START 2020-01-11 12:17:45 +0530 cap production deploy
+  INFO ---------------------------------------------------------------------------
+ DEBUG [661b90b7] Running [ -d $HOME/.rbenv/versions/2.7.0 ] as deploy@206.189.139.122
+ DEBUG [661b90b7] Command: [ -d $HOME/.rbenv/versions/2.7.0 ]
+ DEBUG [661b90b7] Finished in 5.262 seconds with exit status 1 (failed).
+  WARN rbenv: 2.7.0 is not installed or not found in $HOME/.rbenv/versions/2.7.0 on 206.189.139.122
+  INFO ---------------------------------------------------------------------------
+  INFO START 2020-01-11 12:22:34 +0530 cap production deploy
+  INFO ---------------------------------------------------------------------------
+ DEBUG [0e71a295] Running [ -d $HOME/.rbenv/versions/2.7.0 ] as deploy@206.189.139.122
+ DEBUG [0e71a295] Command: [ -d $HOME/.rbenv/versions/2.7.0 ]
+ DEBUG [0e71a295] Finished in 8.585 seconds with exit status 1 (failed).
+  WARN rbenv: 2.7.0 is not installed or not found in $HOME/.rbenv/versions/2.7.0 on 206.189.139.122
+  INFO ---------------------------------------------------------------------------
+  INFO START 2020-01-11 12:36:28 +0530 cap production deploy
+  INFO ---------------------------------------------------------------------------
+ DEBUG [202d4083] Running [ -d $HOME/.rbenv/versions/2.7.0 ] as deploy@206.189.139.122
+ DEBUG [202d4083] Command: [ -d $HOME/.rbenv/versions/2.7.0 ]
+ DEBUG [202d4083] Finished in 5.014 seconds with exit status 1 (failed).
+  WARN rbenv: 2.7.0 is not installed or not found in $HOME/.rbenv/versions/2.7.0 on 206.189.139.122
+  INFO ---------------------------------------------------------------------------
+  INFO START 2020-01-11 12:38:30 +0530 cap production deploy
+  INFO ---------------------------------------------------------------------------
+ DEBUG [c5d66c21] Running [ -d $HOME/.rbenv/versions/2.7.0 ] as deploy@206.189.139.122
+ DEBUG [c5d66c21] Command: [ -d $HOME/.rbenv/versions/2.7.0 ]
+ DEBUG [c5d66c21] Finished in 4.704 seconds with exit status 1 (failed).
+  WARN rbenv: 2.7.0 is not installed or not found in $HOME/.rbenv/versions/2.7.0 on 206.189.139.122
+  INFO ---------------------------------------------------------------------------
+  INFO START 2020-01-11 12:42:59 +0530 cap production deploy
+  INFO ---------------------------------------------------------------------------
+ DEBUG [3e2b96dd] Running [ -d $HOME/.rbenv/versions/2.7.0 ] as deploy@206.189.139.122
+ DEBUG [3e2b96dd] Command: [ -d $HOME/.rbenv/versions/2.7.0 ]
+ DEBUG [3e2b96dd] Finished in 7.518 seconds with exit status 1 (failed).
+  WARN rbenv: 2.7.0 is not installed or not found in $HOME/.rbenv/versions/2.7.0 on 206.189.139.122
+  INFO ---------------------------------------------------------------------------
+  INFO START 2020-01-11 12:57:00 +0530 cap production deploy
+  INFO ---------------------------------------------------------------------------
+ DEBUG [0f2c7683] Running [ -d $HOME/.rbenv/versions/2.7.0 ] as deploy@206.189.139.122
+ DEBUG [0f2c7683] Command: [ -d $HOME/.rbenv/versions/2.7.0 ]
+ DEBUG [0f2c7683] Finished in 4.546 seconds with exit status 0 (successful).
+ DEBUG [d17c582f] Running /usr/bin/env which passenger as deploy@206.189.139.122
+ DEBUG [d17c582f] Command: /usr/bin/env which passenger
+ DEBUG [d17c582f] 	/usr/bin/passenger
+ DEBUG [d17c582f] Finished in 0.093 seconds with exit status 0 (successful).
+  INFO [6dd50905] Running /usr/bin/env mkdir -p /tmp as deploy@206.189.139.122
+ DEBUG [6dd50905] Command: ( export RBENV_ROOT="$HOME/.rbenv" RBENV_VERSION="2.7.0" ; /usr/bin/env mkdir -p /tmp )
+  INFO [6dd50905] Finished in 0.091 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-myapp-production-boopathi.sh 0.0%
+  INFO Uploading /tmp/git-ssh-myapp-production-boopathi.sh 100.0%
+  INFO [9a41a355] Running /usr/bin/env chmod 700 /tmp/git-ssh-myapp-production-boopathi.sh as deploy@206.189.139.122
+ DEBUG [9a41a355] Command: ( export RBENV_ROOT="$HOME/.rbenv" RBENV_VERSION="2.7.0" ; /usr/bin/env chmod 700 /tmp/git-ssh-myapp-production-boopathi.sh )
+  INFO [9a41a355] Finished in 0.092 seconds with exit status 0 (successful).
+  INFO [3dbb175e] Running /usr/bin/env git ls-remote git@github.com:boopathimca2013/myapp.git HEAD as deploy@206.189.139.122
+ DEBUG [3dbb175e] Command: ( export RBENV_ROOT="$HOME/.rbenv" RBENV_VERSION="2.7.0" GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-myapp-production-boopathi.sh" ; /usr/bin/env git ls-remote git@github.com:boopathimca2013/myapp.git HEAD )
+ DEBUG [3dbb175e] 	Warning: Permanently added 'github.com,13.234.176.102' (RSA) to the list of known hosts.
+ DEBUG [3dbb175e] 	git@github.com: Permission denied (publickey).
+ DEBUG [3dbb175e] 	fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
