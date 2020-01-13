@@ -13,7 +13,7 @@ default: &default
   adapter: mysql2
   encoding: utf8
   pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
-  username: root
+  username: boopathi
   password: pwd^123
   socket: /var/run/mysqld/mysqld.sock
   host: localhost
@@ -50,9 +50,9 @@ test:
 #
 production:
   <<: *default
-  database: myapp_production
-  username: root
+  database: myapp_prod
+  username: boopathi
   password: pwd^123
   host: localhost
   port: 3306
-  
+  socket: /var/run/mysqld/mysqld.sock
